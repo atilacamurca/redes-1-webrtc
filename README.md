@@ -10,3 +10,4 @@ Apresentação sobre WebRTC para cadeira de Redes 1
 * <https://github.com/googlecodelabs/webrtc-web> - Realtime communication with WebRTC
 * <https://webrtc.github.io/samples/src/content/datachannel/filetransfer/> - Transfer a file
 * <https://github.com/muaz-khan/WebRTC-Experiment> - WebRTC, WebRTC and WebRTC. Everything here is all about WebRTC
+* <https://test.webrtc.org/> - WebRTC Online Troubleshooter (Tester)
