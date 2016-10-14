@@ -11,3 +11,6 @@ Apresentação sobre WebRTC para cadeira de Redes 1
 * <https://webrtc.github.io/samples/src/content/datachannel/filetransfer/> - Transfer a file
 * <https://github.com/muaz-khan/WebRTC-Experiment> - WebRTC, WebRTC and WebRTC. Everything here is all about WebRTC
 * <https://test.webrtc.org/> - WebRTC Online Troubleshooter (Tester)
+* <http://io13webrtc.appspot.com/#1> - WebRTC Presentation
+* <http://www.tokbox.com/blog/webrtc-data-channels-vs-websockets/> - WebRTC Data Channels vs WebSockets
+
